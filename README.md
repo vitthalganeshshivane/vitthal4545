@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @vitthal4545
-- 👀 I’m interested in front end development projects
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 vitthalgs1434@gmail.com
-- mobile. 9370394732
+<h1 align="center">Hi 👋, I'm Vitthal</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Intern @ Amika Softwares | CSE Student</h3>
 
-<!---
-vitthal4545/vitthal4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Code.+Build.+Learn.+Repeat.;MERN+Stack+%7C+React+%7C+Node+%7C+MongoDB;DSA+in+Java+%7C+B.Tech+%7C+2026+Graduate" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 💼 MERN Stack Intern @ **Amika Softwares**
+- 🎓 Final Year B.Tech CSE @ PBCOE Nagpur  
+- 🧠 Currently learning: **Advanced React**, **Redux Toolkit**, and **DSA**
+- 🔭 Working on: `vroom45` – a ride-booking web app
+- 📖 I love reading about history, tech & personal growth
+
+---
+
+### 🛠️ Tech Stack
+
+```javascript
+Languages:   Java, JavaScript, Python
+Frontend:    React.js, Tailwind CSS, GSAP
+Backend:     Node.js, Express.js, MongoDB, JWT, Socket.IO
+Tools:       Git, Postman, Vercel, Render, Figma
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&theme=github_dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=github_dark" height="160"/> </p>
+
+📫 Connect with Me
+💼 [LinkedIn]()
+
+🌐 [Portfolio]() (soon)
+
+📬 Email: vitthalshivane.dev@gmail.com
