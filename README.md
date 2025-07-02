@@ -24,16 +24,19 @@
 
 ### 🛠️ Tech Stack
 
-```javascript
-Languages:   Java, JavaScript, Python
+```
+javascript
+Languages:   Java, JavaScript
 Frontend:    React.js, Tailwind CSS, GSAP
 Backend:     Node.js, Express.js, MongoDB, JWT, Socket.IO
-Tools:       Git, Postman, Vercel, Render, Figma
+Tools:       Git, Postman, Vercel, Render
 ```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&theme=github_dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=github_dark" height="160"/> </p>
 
-📫 Connect with Me
+
+<h3 align="center">📫 Connect with Me</h3>
+
 💼 [LinkedIn](https://www.linkedin.com/in/vitthalganeshshivane/)
 
 🌐 [Portfolio](https://vitthalganeshshivane.vercel.app/) (soon)
