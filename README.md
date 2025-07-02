@@ -34,8 +34,8 @@ Tools:       Git, Postman, Vercel, Render, Figma
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&theme=github_dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=github_dark" height="160"/> </p>
 
 📫 Connect with Me
-💼 [LinkedIn]()
+💼 [LinkedIn](https://www.linkedin.com/in/vitthalganeshshivane/)
 
-🌐 [Portfolio]() (soon)
+🌐 [Portfolio](https://vitthalganeshshivane.vercel.app/) (soon)
 
-📬 Email: vitthalshivane.dev@gmail.com
+📬 Email: vitthalganeshshivane@gmail.com
