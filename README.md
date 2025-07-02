@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Code.+Build.+Learn.+Repeat.;MERN+Stack+%7C+React+%7C+Node+%7C+MongoDB;DSA+in+Java+%7C+B.Tech+%7C+2026+Graduate" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### 🧑‍💻 About Me
@@ -24,6 +26,7 @@ Languages:   Java, JavaScript, Python
 Frontend:    React.js, Tailwind CSS, GSAP
 Backend:     Node.js, Express.js, MongoDB, JWT, Socket.IO
 Tools:       Git, Postman, Vercel, Render, Figma
+```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&theme=github_dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=github_dark" height="160"/> </p>
 
